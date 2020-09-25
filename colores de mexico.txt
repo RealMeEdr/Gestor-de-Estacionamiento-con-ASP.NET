@@ -1,0 +1,20 @@
+ COLOR ROJO  :
+#9f2241 Y #691c32
+
+COLORES VERDE :
+#235b4e Y #10312b
+
+COLORES AMARILLO :
+CLARO        FUERTE
+#ddc9a3 Y #bc955c
+
+COLORES GRISES:
+#98989a Y #6f7271
+
+negro 70% #4d4d4d
+           50% #808080
+           20% #cccccc
+
+
+cambiar por apellidos, 
+PATERNO Y MATERNO

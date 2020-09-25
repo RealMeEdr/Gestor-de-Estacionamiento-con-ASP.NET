@@ -1,0 +1,105 @@
+
+
+/*******************
+este es el boton cafe 
+******************+*/
+.btn-cafe {
+    color: #fff;
+    background-color: #8A4B08;
+    border-color: #8A4B08;
+  }
+  
+  .btn-cafe:hover {
+    color: #fff;
+    background-color: #8A4B08;
+    border-color: #8A4B08;
+  }
+  
+  .btn-cafe:focus, .btn-cafe.focus {
+    color: #fff;
+    background-color: #8A4B08;
+    border-color: #8A4B08;
+    box-shadow: 0 0 0 0.2rem rgba(58, 176, 195, 0.5);
+  }
+  
+  .btn-cafe.disabled, .btn-cafe:disabled {
+    color: #fff;
+    background-color: #8A4B08;
+    border-color: #8A4B08;
+  }
+  
+  .btn-cafe:not(:disabled):not(.disabled):active, .btn-cafe:not(:disabled):not(.disabled).active,
+  .show > .btn-cafe.dropdown-toggle {
+    color: #fff;
+    background-color: #8A4B08;
+    border-color: #8A4B08;
+  }
+  
+  .btn-cafe:not(:disabled):not(.disabled):active:focus, .btn-cafe:not(:disabled):not(.disabled).active:focus,
+  .show > .btn-cafe.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(58, 176, 195, 0.5);
+  }
+
+  .btn-outline-cafe {
+    color: #8A4B08;
+    border-color: #8A4B08;
+  }
+  
+  .btn-outline-cafe:hover {
+    color: #fff;
+    background-color: #8A4B08;
+    border-color: #8A4B08;
+  }
+  
+  .btn-outline-cafe:focus, .btn-outline-cafe.focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+  }
+  
+  .btn-outline-cafe.disabled, .btn-outline-cafe:disabled {
+    color: #8A4B08;
+    background-color: transparent;
+  }
+  
+  .btn-outline-cafe:not(:disabled):not(.disabled):active, .btn-outline-cafe:not(:disabled):not(.disabled).active,
+  .show > .btn-outline-cafe.dropdown-toggle {
+    color: #fff;
+    background-color: #8A4B08;
+    border-color: #8A4B08;
+  }
+  
+  .btn-outline-cafe:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
+  .show > .btn-outline-cafe.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+  }
+
+  .bodyinicio{
+    background-image:url(foto.gif);
+    width: 800px;
+  }
+  /***********************
+  Este es el botón verde claro 
+  ************************/
+  .btn-outline-verdemx:hover{
+    color: #fff;
+    background-color: #235b4e;
+    border-color: #235b4e;
+  }
+  .btn-verdemx {
+    color: #fff;
+    background: #235b4e;
+    border-color: #235b4e;
+  }
+  .btn-verdemx:hover {
+    color:#235b4e;
+    border-color: #235b4e;
+  }
+
+  .btn-outline-verdemx {
+    color: #235b4e;
+    border-color: #235b4e;
+  }
+
+  .btn-outline-verdemx.disabled, .btn-outline-verdemx:disabled{
+    color:#235b4e;
+    background-color: transparent;
+  }

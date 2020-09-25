@@ -1,0 +1,55 @@
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\Administrador de Estacionamiento.dll.config
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\Administrador de Estacionamiento.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\Administrador de Estacionamiento.pdb
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\csc.exe
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\csc.exe.config
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\csc.rsp
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\csi.exe
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\csi.rsp
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\System.AppContext.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\vbc.exe
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\vbc.exe.config
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\vbc.rsp
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\VBCSCompiler.exe
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\obj\Debug\Administrador de Estacionamiento.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\obj\Debug\Administrador de Estacionamiento.csproj.CopyComplete
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\obj\Debug\Administrador de Estacionamiento.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\obj\Debug\Administrador de Estacionamiento.pdb
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.Helpers.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.Mvc.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.Razor.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.WebPages.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.WebPages.Razor.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.Helpers.xml
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.Mvc.xml
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.Razor.xml
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.WebPages.xml
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\System.Web.WebPages.Razor.xml
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\es\System.Web.Helpers.resources.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\es\System.Web.Mvc.resources.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\es\System.Web.Razor.resources.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\es\System.Web.WebPages.resources.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\hp\Desktop\Gestor de Estacionamiento\Administrador de Estacionamiento\obj\Debug\Administrador de Estacionamiento.csproj.CoreCompileInputs.cache
